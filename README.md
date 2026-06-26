@@ -9,6 +9,19 @@ Built in 24 hours for ACM Techsprint: Asteria.
 
 ---
 
+## Team: Rocky and the Other Rockies
+
+| Name | Role |
+| --- | --- |
+| Cosme, Rene Vincent | |
+| Razon III, Gerardo | |
+| Yu, Charles Derick | |
+| Zablan, Prince Edwin | |
+
+**Event:** ACM TechSprint · Co-presented by FEU Tech Innovation Center (FTIC) & Innovate PH Challenges · Major Partner: Accenture
+
+---
+
 ## What's in it
 
 - **The voice orb** — a black-hole sphere with a pulsing ring whose intensity, scale, and bloom are driven in real time by the AI's actual voice frequency data (`getOutputByteFrequencyData()`). It breathes when idle, listens when you speak, and pulses to its own answers.
@@ -147,3 +160,7 @@ lib/
 ## Visual direction
 
 erid now follows a BlueYard-style light editorial rhythm: a white canvas, warm apricot atmospheric wash, one centered headline, a single lower-half 3D celestial object, flat square controls, hairline cards, and pale chromatic tints used only as surfaces or borders.
+
+## License
+
+MIT License — see LICENSE for details.
